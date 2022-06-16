@@ -1,4 +1,4 @@
-**COTISSE TRANSPORT SQL**
+**Toky TRANSPORT SQL**
 
 Ce repository contient la liste des requêtes possibles -et *intéressantes*- dans la base de données sur psql intitulé *toky_trans2*, qui est enfaite des listes :
 - des chauffeurs,
