@@ -1,3 +1,4 @@
+-- Vehicules qui depensent le plus en essence
 select vehicule.matricule, depense.essence from vehicule
     inner join recevoir
     on vehicule.matricule = recevoir.matricule
